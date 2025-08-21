@@ -1,5 +1,5 @@
 const sheetID = '1fnOGM1YZ2XB0JbomEcZl5JLt6XZnXjVpDJS0Z-9JsgU'; // Replace with whatever is between /d/ and /edit from my google sheets main URL //
-const gid = '1460359088'; // Replace the  GID number with the gid TAB I want to load, it is the number at the end of the URL after gid= in the URL of the tab I want to load //
+const gid = '285757670'; // Replace the  GID number with the gid TAB I want to load, it is the number at the end of the URL after gid= in the URL of the tab I want to load //
 const visibleColumns = [2, 3, 4, 5, 6, 9, 10, 11, 12]; // this is the columns I want to show, the first column is 0, the second is 1, etc. //
 const tableHeaders = document.getElementById('table-headers');
 const tableRows = document.getElementById('table-rows');
